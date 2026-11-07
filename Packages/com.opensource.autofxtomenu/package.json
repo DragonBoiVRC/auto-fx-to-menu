@@ -1,6 +1,6 @@
 {
   "name": "com.opensource.autofxtomenu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Auto FX To Menu",
   "description": "Scans your FX controller for Category/Item parameters and builds the VRChat Expression Parameters and paged Expressions Menus for you, with optional auto-generated icons for toggles. Plain VRChat SDK, no Modular Avatar or VRCFury needed.",
   "unity": "2019.4",
